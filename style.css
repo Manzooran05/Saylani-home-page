@@ -1,0 +1,248 @@
+
+.main {
+    background-color: #316dc3;
+}
+.ratio{
+    background-color: #2755e9;
+    color: white;
+    font-family: Cochin;
+    padding: 5px;
+}
+.mainpadding {
+    padding-left: 145px;
+    padding-right: 170px;
+}
+
+.navpadding {
+    padding-left: 210px;
+    padding-right: 210px;
+}
+
+.head {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    flex-wrap: wrap;
+
+    padding-top: 10px;
+}
+
+.centerhead {
+    font-size: 15px;
+}
+
+.icn {
+    width: 14px;
+    margin-left: 25px;
+}
+
+.navcolor {
+    background-color: #f7f8fa;
+    ;
+}
+
+.btn1 {
+    background-color: #f5f5f5;
+    font-size: 12px;
+    font-family:Sirichana W31;
+    border: 1px solid black;
+    padding: 7px;
+
+}
+
+
+
+.footer{
+    background-color: #25272e;
+    color: grey;
+    padding:30px 0px 30px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+@media only screen and (max-width:600px){
+    .col-sm-12{
+        text-align: center;
+    }
+}
+@media only screen and (max-width:700px){
+    .col-sm-12{
+        text-align: center;
+    }
+}
+@media only screen and (max-width:800px){
+    .col-sm-12{
+        text-align: center;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .navpadding {
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .navpadding {
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .navpadding {
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .mainpadding {
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .one {
+        padding: 5px;
+        padding-top: 0px;
+    }
+}
+
+.mainimage {
+    width: 100%;
+}
+
+@media only screen and (max-width:600px) {
+    .landingimg {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .landingimg {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .landingimg {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+}
+.intro{
+    text-align: center;
+}
+.news{
+    background-color:#316dc3 ;    
+    margin-top: 10px;
+
+}
+
+.intorparagraph{
+    font-size: 14;
+    font-family: Sirichana W31;
+}
+@media only screen and (max-width:600){
+    .intorparagraph{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+@media only screen and (max-width:800){
+    .intorparagraph{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+@media only screen and (max-width:1000){
+    .intorparagraph{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+@media only screen and (max-width:900px){
+    .col-sm-12{
+        text-align: center;
+    }
+}@media only screen and (max-width:1000px){
+    .col-sm-12{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:1600px){
+    .boxwidth{
+        width: 1500px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:1500px){
+    .boxwidth{
+        width: 1400px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:1400px){
+    .boxwidth{
+        width: 1300px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:1300px){
+    .boxwidth{
+        width: 1200px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:1200px){
+    .boxwidth{
+        width: 1100px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:1100px){
+    .boxwidth{
+        width:1000px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:1000px){
+    .boxwidth{
+        width: 900px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:900px){
+    .boxwidth{
+        width: 800px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:800px){
+    .boxwidth{
+        width: 700px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:700px){
+    .boxwidth{
+        width: 600px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:600px){
+    .boxwidth{
+        width: 100%;
+        text-align: center;
+    }
+}
+@media only screen and (max-width:500px){
+    .boxwidth{
+        width: 100%;
+        text-align: center;
+    }
+}
